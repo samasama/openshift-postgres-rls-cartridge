@@ -22,4 +22,4 @@ Endpoints:
     Private-Port:      5432
     Public-Port-Name:  PORT
 
-Source-Url: ssh://github.com/samasama/openshift-postgres-rls-cartridge.git
+Source-Url: https://github.com/samasama/openshift-postgres-rls-cartridge.git
